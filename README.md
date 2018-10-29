@@ -4,5 +4,6 @@ cette appliquation console développée en c# construit et génère un fichier c
 
 Infos :
 
--> utilisation de WebClient pour get le json distant
+-> utilisation de WebClient pour get le json distant.
+
 -> utilisation de la labrairie Newtonsoft.json pour sérializer les données Json dans des objets
